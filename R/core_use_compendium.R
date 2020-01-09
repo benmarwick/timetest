@@ -34,7 +34,7 @@ use_compendium <- function(
     usethis.description = list(
       Version = "0.0.0.9000",
       Title =  "What the Package Does (One Line, Title Case)",
-      Description = "What the package does (one paragraph)",
+      Description = "What the package does (one paragraph).",
       `Authors@R` = authors_at_R,
       License =  "What license it uses",
       Encoding = "UTF-8",
